@@ -1,0 +1,7 @@
+Portfolio,Ann. Return (%),Ann. Vol (%),Sharpe,Max DD (%),CVaR 95% (%)
+GMV Uncons. (QP),0.38,4.23,-0.4551,-17.41,-3.08
+GMV Long-Only (QP),-0.4,5.33,-0.5078,-21.03,-3.83
+Tang Uncons. (QP),19.56,11.47,1.5038,-7.7,-4.93
+Tang Long-Only (QP),13.03,15.02,0.7138,-24.79,-9.54
+HRP,1.22,7.27,-0.1488,-21.96,-5.13
+Equal Weight,4.53,11.96,0.1861,-25.17,-8.19
